@@ -1,0 +1,11 @@
+E:\C# projects\ecom\Ecom.Core\bin\Debug\net8.0\Ecom.Core.deps.json
+E:\C# projects\ecom\Ecom.Core\bin\Debug\net8.0\Ecom.Core.dll
+E:\C# projects\ecom\Ecom.Core\bin\Debug\net8.0\Ecom.Core.pdb
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfoInputs.cache
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfo.cs
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.csproj.CoreCompileInputs.cache
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.dll
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\refint\Ecom.Core.dll
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.pdb
+E:\C# projects\ecom\Ecom.Core\obj\Debug\net8.0\ref\Ecom.Core.dll

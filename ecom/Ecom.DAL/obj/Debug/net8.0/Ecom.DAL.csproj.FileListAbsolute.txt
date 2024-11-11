@@ -1,0 +1,14 @@
+E:\C# projects\ecom\Ecom.DAL\bin\Debug\net8.0\Ecom.DAL.deps.json
+E:\C# projects\ecom\Ecom.DAL\bin\Debug\net8.0\Ecom.DAL.runtimeconfig.json
+E:\C# projects\ecom\Ecom.DAL\bin\Debug\net8.0\Ecom.DAL.dll
+E:\C# projects\ecom\Ecom.DAL\bin\Debug\net8.0\Ecom.DAL.pdb
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.csproj.AssemblyReference.cache
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.AssemblyInfoInputs.cache
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.AssemblyInfo.cs
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.csproj.CoreCompileInputs.cache
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.dll
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\refint\Ecom.DAL.dll
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.pdb
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\Ecom.DAL.genruntimeconfig.cache
+E:\C# projects\ecom\Ecom.DAL\obj\Debug\net8.0\ref\Ecom.DAL.dll

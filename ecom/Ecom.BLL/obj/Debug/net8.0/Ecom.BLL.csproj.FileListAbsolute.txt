@@ -1,0 +1,17 @@
+E:\C# projects\ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.BLL.deps.json
+E:\C# projects\ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.BLL.dll
+E:\C# projects\ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.BLL.pdb
+E:\C# projects\ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.Core.dll
+E:\C# projects\ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.DAL.dll
+E:\C# projects\ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.DAL.pdb
+E:\C# projects\ecom\Ecom.BLL\bin\Debug\net8.0\Ecom.Core.pdb
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.csproj.AssemblyReference.cache
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.AssemblyInfoInputs.cache
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.AssemblyInfo.cs
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.csproj.CoreCompileInputs.cache
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.csproj.Up2Date
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.dll
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\refint\Ecom.BLL.dll
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\Ecom.BLL.pdb
+E:\C# projects\ecom\Ecom.BLL\obj\Debug\net8.0\ref\Ecom.BLL.dll
